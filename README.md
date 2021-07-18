@@ -7,26 +7,26 @@ Please Give a ⭐ if you like this repo and also try following me for more best 
 [![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/Ns_AnoNymouS)
 
 ## Mapping
-[Deploy to Heroku 🗳](https://github.com/Ns-Bots/TG-RENAMER-BOT#deploy-to-heroku-)
+[Deploy to Heroku 🗳](https://github.com/selfie-bd/TG-RENAMER-BOT#deploy-to-heroku-)
 
-[Bot Features 🔥](https://github.com/Ns-Bots/TG-RENAMER-BOT#bot-features-)
+[Bot Features 🔥](https://github.com/selfie-bd/TG-RENAMER-BOT#bot-features-)
 
-[Required Vars 💥](https://github.com/Ns-Bots/TG-RENAMER-BOT#required-vars-)
+[Required Vars 💥](https://github.com/selfie-bd/TG-RENAMER-BOT#required-vars-)
 
-[Optional Vars 💬](https://github.com/Ns-Bots/TG-RENAMER-BOT#optional-vars-)
+[Optional Vars 💬](https://github.com/selfie-bd/TG-RENAMER-BOT#optional-vars-)
 
-[Available Commands 🤖](https://github.com/Ns-Bots/TG-RENAMER-BOT#available-commands-)
+[Available Commands 🤖](https://github.com/selfie-bd/TG-RENAMER-BOT#available-commands-)
 
-[Dev 🧑‍💻](https://github.com/Ns-Bots/TG-RENAMER-BOT#dev-)
+[Dev 🧑‍💻](https://github.com/selfie-bd/TG-RENAMER-BOT#dev-)
 
-[TODO 🤧](https://github.com/Ns-Bots/TG-RENAMER-BOT#todo-)
+[TODO 🤧](https://github.com/selfie-bd/TG-RENAMER-BOT#todo-)
 
-[Thanks And Credits 🎉](https://github.com/Ns-Bots/TG-RENAMER-BOT#thanks-and-credits-)
+[Thanks And Credits 🎉](https://github.com/selfie-bd/TG-RENAMER-BOT#thanks-and-credits-)
 
 ## Deploy to Heroku 🗳
 Press the following button to deploy in heroku.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ns-Bots/TG-RENAMER-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/selfie-bd/TG-RENAMER-BOT)
 
 ## Bot Features 🔥
 - Renaming Telegram files as file or video.
@@ -51,7 +51,7 @@ Press the following button to deploy in heroku.
 
 - `BOT_TOKEN:` Get the bot token from [Bot Father <img src="https://telegra.ph/file/8d80c13110506bf1cb58e.jpg" width="30" height="30">](https://telegram.dog/BotFather)
 
-- `OWNER_ID:` Your Telegram user id, Get this value from [@FileStore_Nsbot](https://telegram.dog/FileStore_Nsbot)
+- `OWNER_ID:` Your Telegram user id, Get this value from [Cinema_fix](https://telegram.dog/cinema_fix)
 
 
 ## Optional Vars 💬
