@@ -6,20 +6,6 @@ Please Give a ⭐ if you like this repo and also try following me for more best 
 [![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/Groupdc)
 [![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/selfiebd)
 
-## Mapping
-[Deploy to Heroku 🗳](https://github.com/selfie-bd/RENAMETGB0t/tree/For-Group#deploy-to-heroku-)
-
-[Bot Features 🔥](https://github.com/selfie-bd/RENAMETGB0t/tree/For-Group#bot-features-)
-
-[Required Vars 💥](https://github.com/selfie-bd/RENAMETGB0t/tree/For-Group#required-vars-)
-
-[Optional Vars 💬](https://github.com/selfie-bd/RENAMETGB0t/tree/For-Group#optional-vars-)
-
-[Available Commands 🤖](https://github.com/selfie-bd/RENAMETGB0t/tree/For-Group#available-commands-)
-
-[Dev 🧑‍💻](https://github.com/selfie-bd/RENAMETGB0t/tree/For-Group#dev-)
-
-[Thanks And Credits 🎉](https://github.com/selfie-bd/RENAMETGB0t/tree/For-Group#thanks-and-credits-)
 
 ## Deploy to Heroku 🗳
 Press the following button to deploy in heroku.
