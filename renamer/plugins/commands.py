@@ -121,7 +121,7 @@ async def reset_user(c, m):
         else:
             await m.reply_text('Use this command in the format `/reset user_id`')
     else:
-        await m.reply_sticker(sticker="CAACAgIAAx0CVjDmEQACS3lgvEO2HpojwIQe8lqa4L66qEnDzQACjAEAAhZCawq6dimcpGB-fx8E", quote=True)
+        await m.reply_sticker(sticker="CAACAgUAAxkBAAEDB1xhXbk4aek1qc6bYwJqV5oFqD-5mAACOgkAApfE8VZco9ap8V85HyEE-fx8E", quote=True)
         await m.reply_text(text="You are not admin to use this command.")
 
 
