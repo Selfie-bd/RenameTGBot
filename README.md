@@ -1,30 +1,30 @@
 # Renamer-Bot
-This is a renamer bot for groups😉
+This is a renamer bot 😉
 
 Please Give a ⭐ if you like this repo and also try following me for more best open source codes<br><br>
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/blue?icon=github)](https://github.com/Ns-Bots/TG-RENAMER-BOT/tree/For-Group)
-[![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/Ns_AnoNymouS)
-[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/Ns_AnoNymouS)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/blue?icon=github)](https://github.com/selfie-bd/RENAMeTGBOT/tree/For-Group)
+[![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/Groupdc)
+[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/selfiebd)
 
 ## Mapping
-[Deploy to Heroku 🗳](https://github.com/Ns-Bots/TG-RENAMER-BOT/tree/For-Group#deploy-to-heroku-)
+[Deploy to Heroku 🗳](https://github.com/selfie-bd/RENAMETGB0t/tree/For-Group#deploy-to-heroku-)
 
-[Bot Features 🔥](https://github.com/Ns-Bots/TG-RENAMER-BOT/tree/For-Group#bot-features-)
+[Bot Features 🔥](https://github.com/selfie-bd/RENAMETGB0t/tree/For-Group#bot-features-)
 
-[Required Vars 💥](https://github.com/Ns-Bots/TG-RENAMER-BOT/tree/For-Group#required-vars-)
+[Required Vars 💥](https://github.com/selfie-bd/RENAMETGB0t/tree/For-Group#required-vars-)
 
-[Optional Vars 💬](https://github.com/Ns-Bots/TG-RENAMER-BOT/tree/For-Group#optional-vars-)
+[Optional Vars 💬](https://github.com/selfie-bd/RENAMETGB0t/tree/For-Group#optional-vars-)
 
-[Available Commands 🤖](https://github.com/Ns-Bots/TG-RENAMER-BOT/tree/For-Group#available-commands-)
+[Available Commands 🤖](https://github.com/selfie-bd/RENAMETGB0t/tree/For-Group#available-commands-)
 
-[Dev 🧑‍💻](https://github.com/Ns-Bots/TG-RENAMER-BOT/tree/For-Group#dev-)
+[Dev 🧑‍💻](https://github.com/selfie-bd/RENAMETGB0t/tree/For-Group#dev-)
 
-[Thanks And Credits 🎉](https://github.com/Ns-Bots/TG-RENAMER-BOT/tree/For-Group#thanks-and-credits-)
+[Thanks And Credits 🎉](https://github.com/selfie-bd/RENAMETGB0t/tree/For-Group#thanks-and-credits-)
 
 ## Deploy to Heroku 🗳
 Press the following button to deploy in heroku.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ns-Bots/TG-RENAMER-BOT/tree/For-Group)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/selfie-bd/RENAMETGB0t/tree/For-Group)
 
 ## Bot Features 🔥
 - Support only in Group.
@@ -51,7 +51,7 @@ Press the following button to deploy in heroku.
 
 - `BOT_TOKEN:` Get the bot token from [Bot Father <img src="https://telegra.ph/file/8d80c13110506bf1cb58e.jpg" width="30" height="30">](https://telegram.dog/BotFather)
 
-- `OWNER_ID:` Your Telegram user id, Get this value from [@FileStore_Nsbot](https://telegram.dog/FileStore_Nsbot)
+- `OWNER_ID:` Your Telegram user id, Get this value from [@FileStore_Nsbot](https://telegram.dog/groupdc)
 
 - `AUTH_GROUP:` Your Telegram group id in which bot should work.
 
@@ -83,17 +83,6 @@ about - know about the bot
 reset - (admins only) reset users database
 login - (when password is given) to login to bot
 ```
-
-## Dev 🧑‍💻
-<p align="middle">
-<img src="https://telegra.ph/file/c35579b3aef1248e2a130.jpg" width="250" height="350"><br>
-<img src="https://badgen.net/badge/Name/Anonymous/FF33FF?icon=awesome&labelColor=0080FF"></a>
-<img src="https://badgen.net/badge/Skills/python/purple?icon=terminal&labelColor=red"></a>
-<a href="https://telegram.dog/Ns_Anonymous"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
-<a href="https://github.com/Ns-AnoNymouS"><img src="https://badgen.net/badge/Follow%20on%20/GitHub/80FF00?icon=github&labelColor=black"></a>
-<a href="https://youtube.com/channel/UC9NnqJ63aSzv457iUMM06vQ"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
-<p align="left">
-</p>
 
 ## Thanks And Credits 🎉
 [SpEcHiDe](https://github.com/SpEcHiDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
