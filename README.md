@@ -1,4 +1,7 @@
 # Renamer-Bot
+
+#A Telegram Media Rename Bot! Based on Python 3 🧘
+
 I think this repo gonna become one of the best renamer open source 🥰.
 
 Please Give a ⭐ if you like this repo and also try following me for more best open source codes<br><br>
@@ -27,6 +30,10 @@ Please Give a ⭐ if you like this repo and also try following me for more best 
 Press the following button to deploy in heroku.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/selfie-bd/TG-RENAMER-BOT)
+
+## WARNING ⚠️
+Direct Deploy via button not working?? Suspension issue??
+Then simply do these 👉: Fork Repo, Edit Readme, Edit Deploy Link, Edit Repo name
 
 ## Bot Features 🔥
 - Renaming Telegram files as file or video.
